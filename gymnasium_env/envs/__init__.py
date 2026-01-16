@@ -1,1 +1,1 @@
-from gymnasium_env.envs.unitree_g1 import UnitreeG1Env
+from gymnasium_env.envs.unitree_g1_env import UnitreeG1Env
